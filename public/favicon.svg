@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Blue rounded square background -->
+  <rect width="32" height="32" rx="7" fill="#2563EB"/>
+  <!-- White calculator grid dots -->
+  <rect x="8" y="8" width="5" height="4" rx="1" fill="white"/>
+  <rect x="15" y="8" width="5" height="4" rx="1" fill="white"/>
+  <rect x="22" y="8" width="2" height="4" rx="1" fill="white" opacity="0.6"/>
+  <rect x="8" y="14" width="5" height="3" rx="1" fill="white" opacity="0.8"/>
+  <rect x="15" y="14" width="5" height="3" rx="1" fill="white" opacity="0.8"/>
+  <rect x="22" y="14" width="2" height="3" rx="1" fill="white" opacity="0.6"/>
+  <rect x="8" y="19" width="5" height="3" rx="1" fill="white" opacity="0.8"/>
+  <rect x="15" y="19" width="5" height="3" rx="1" fill="white" opacity="0.8"/>
+  <rect x="22" y="19" width="2" height="3" rx="1" fill="white" opacity="0.6"/>
+  <!-- S letter accent -->
+  <text x="9" y="26" font-family="Arial" font-weight="900" font-size="8" fill="#93C5FD">SC</text>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "StudyCalc",
+  "description": "High-Performance Student Utility Platform featuring JNTU-focused CGPA models, SGPA tracking, attendance forecasting, and engineering toolsets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
