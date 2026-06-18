@@ -215,9 +215,7 @@ export const LegalPages: React.FC<SubPageProps> = ({ type }) => {
                 </button>
               </div>
 
-              <div className="text-[11px] text-slate-400 text-center mt-4">
-                For support, business inquiries, and feedback: <strong className="text-slate-500">kiranungarala7@gmail.com</strong>
-              </div>
+            
             </form>
           )}
         </div>
